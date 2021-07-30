@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/828879639703322656/870799225116581888/download20210705095917_1.png">
+  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/828879639703322656/870808687252504636/download20210705095303_1.png">
 </div>
   
   ##
