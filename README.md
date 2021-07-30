@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidexiled
 - 👀 I’m interested in AI, BIG DATA
-- 🌱 I’m currently learning REACT NATIVE
+- 🌱 I’m currently learning REACT NATIVE W EXPO
 
 <!---
 voidexiled/voidexiled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
