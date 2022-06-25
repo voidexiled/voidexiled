@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidexiled
-- 👀 I’m interested in AI, BIG DATA
-- 🌱 I’m currently learning BIG DATA
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Full stack web developer
 
 <!---
 voidexiled/voidexiled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
