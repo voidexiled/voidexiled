@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidexiled
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Full stack web developer
+- 🌱 I’m currently learning Angular & Django
 
 <!---
 voidexiled/voidexiled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
