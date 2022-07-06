@@ -2,10 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Angular & Django
 
-<!---
-voidexiled/voidexiled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
  <div>
   <a href="https://github.com/voidexiled">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidexiled&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +19,7 @@ You can click the Preview link to take a look at your changes.
  
 <div> 
   <a href="https://www.instagram.com/jesusjalomochavez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jalomo.chavez.jesus.francisco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jalomo.chavez18@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/voidexiled/voidexiled/blob/output/github-contribution-grid-snake.svg)
  
