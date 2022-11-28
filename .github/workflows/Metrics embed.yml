@@ -1,8 +1,2 @@
-name: Metrics Embed
-on:
-  workflow_call:
-jobs:
-  check-bats-version:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@v3.29
+- name: Metrics Embed
+  uses: lowlighter/metrics@v3.29
