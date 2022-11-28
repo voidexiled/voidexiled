@@ -1,4 +1,4 @@
-name: Metrics Embed
+name: main
 on:
   workflow_call:
 jobs:
