@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @voidexiled
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C# & Unity 3D
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Angular & .NET Core
 
  <div>
   <a href="https://github.com/voidexiled">
