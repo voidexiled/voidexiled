@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @voidexiled
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Angular & .NET Core
+- 🌱 I’m currently learning NextJs & React
 
  <div>
   <a href="https://github.com/voidexiled">
