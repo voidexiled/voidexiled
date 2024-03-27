@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @voidexiled
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning NextJs & React
+- 👋 Hola, soy Jesus! (@voidexiled).
+- 👀 Estoy interesado en el desarrollo Web.
+- 🌱 Actualmente estoy trabajando en proyectos personales con NextJs y React.
 
  <div>
   <a href="https://github.com/voidexiled">
@@ -22,7 +22,3 @@
   <a href="https://www.instagram.com/jesusjalomochavez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jalomo.chavez18@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/voidexiled/voidexiled/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-![Metrics](https://metrics.lecoq.io/voidexiled?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FMexico_City)
