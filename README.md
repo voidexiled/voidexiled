@@ -1,5 +1,7 @@
 # Jesús Jalomo
 
+**English** · [Español](README.es.md)
+
 ### Frontend Engineer
 
 TypeScript · React · Next.js · Vite · Tauri · Tailwind CSS · Node.js
@@ -10,7 +12,7 @@ I build web and desktop products with TypeScript and React, including commercial
 
 ## Selected Work
 
-- **Lotería Studio** — Commercial desktop application for designing and generating customized Mexican lottery products.
+- **[Lotería Studio](https://github.com/voidexiled/loteria-studio)** — Commercial desktop application for designing and producing customized Mexican lotería materials. Includes a public engineering case study.
 - **Lotería en Vivo** — Desktop software for managing live Mexican lottery games and broadcasts.
 - **[Noctera](https://github.com/voidexiled/noctera-web-next)** — Custom MMORPG platform built around a Tibia server, with a modern Next.js web application and custom game systems.
 
