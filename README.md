@@ -13,8 +13,8 @@ I build web and desktop products with TypeScript and React, including commercial
 ## Selected Work
 
 - **[Lotería Studio](https://github.com/voidexiled/loteria-studio)** — Commercial desktop application for designing and producing customized Mexican lotería materials. Includes a public engineering case study.
-- **Lotería en Vivo** — Desktop software for managing live Mexican lottery games and broadcasts.
-- **[Noctera](https://github.com/voidexiled/noctera-web-next)** — Custom MMORPG platform built around a Tibia server, with a modern Next.js web application and custom game systems.
+- **[Acadance](https://github.com/voidexiled/Acadance)** — Functional academic platform prototype for role-based course, group, laboratory, and assignment workflows.
+- **[Noctera](https://github.com/voidexiled/noctera)** — Custom MMORPG platform built around a Tibia server, with a modern Next.js web application and custom game systems.
 
 ## AI-assisted development
 

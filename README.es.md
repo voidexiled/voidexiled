@@ -14,9 +14,9 @@ Construyo productos web y de escritorio con TypeScript y React, incluyendo aplic
 
 - **[Lotería Studio](https://github.com/voidexiled/loteria-studio)** — Aplicación comercial de escritorio para diseñar y producir materiales personalizados de lotería mexicana. Incluye un caso de estudio técnico público.
 
-- **Lotería en Vivo** — Software de escritorio para administrar partidas y transmisiones en vivo de lotería mexicana.
+- **[Acadance](https://github.com/voidexiled/Acadance)** — Prototipo funcional de plataforma académica para flujos de cursos, grupos, laboratorios y prácticas basados en roles.
 
-- **[Noctera](https://github.com/voidexiled/noctera-web-next)** — Plataforma MMORPG personalizada construida alrededor de un servidor de Tibia, con una aplicación web moderna en Next.js y sistemas de juego personalizados.
+- **[Noctera](https://github.com/voidexiled/noctera)** — Plataforma MMORPG personalizada construida alrededor de un servidor de Tibia, con una aplicación web moderna en Next.js y sistemas de juego personalizados.
 
 ## Desarrollo asistido por IA
 
