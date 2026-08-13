@@ -16,6 +16,8 @@ Construyo productos web y de escritorio con TypeScript y React, incluyendo aplic
 
 - **[Acadance](https://github.com/voidexiled/Acadance)** — Prototipo funcional de plataforma académica para flujos de cursos, grupos, laboratorios y prácticas basados en roles.
 
+- **[Cotizador 3D](https://github.com/voidexiled/cotizador-3d)** — Herramienta de operaciones para impresión 3D que integra cotizaciones, producción, inventario, pagos y gestión de materiales con Next.js, React, TypeScript y Firebase.
+
 - **[Noctera](https://github.com/voidexiled/noctera)** — Plataforma MMORPG personalizada construida alrededor de un servidor de Tibia, con una aplicación web moderna en Next.js y sistemas de juego personalizados.
 
 ## Desarrollo asistido por IA
