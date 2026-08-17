@@ -17,6 +17,3 @@ I build web and desktop products with TypeScript and React, including commercial
 - **[Cotizador 3D](https://github.com/voidexiled/cotizador-3d)** — 3D-printing operations tool for quoting, production, inventory, payments, and material management, built with Next.js, React, TypeScript, and Firebase.
 - **[Noctera](https://github.com/voidexiled/noctera)** — Custom MMORPG platform built around a Tibia server, with a modern Next.js web application and custom game systems.
 
-## AI-assisted development
-
-I use Claude Code and OpenAI Codex for implementation, debugging, refactoring, codebase exploration, documentation, testing, and development workflows.
